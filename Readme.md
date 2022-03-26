@@ -1,10 +1,10 @@
 # <img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30px"> Mis Apuntes JavaScript
 
 
-### 1. Closure: 
+## 1. Closure: 
 Es una función autoejecutada que devuelve determinadas variables o funciones, de forma similar a una class y te permite tener variables privadas
 
-### 2. Hoisting: 
+## 2. Hoisting: 
 <img src="https://c.tenor.com/BRANURS5Lh8AAAAM/balloon-red.gif" width="100px" >
 
 
@@ -34,7 +34,7 @@ En la siguiente tabla se muestra como actua el hoisting en cada caso, y qué es 
 | class					                           | No        		       |
 
 
-### 3. Tipos de datos y estructuras en JavaScript
+## 3. Tipos de datos y estructuras en JavaScript
 Todos los lenguajes de programación tienen estructuras de datos integradas, pero estas a menudo difieren de un lenguaje a otro. Este artículo intenta enumerar las estructuras de datos integradas disponibles en JavaScript y las propiedades que tienen. Estas se pueden utilizar para construir otras estructuras de datos. Siempre que es posible, se hacen comparaciones con otros lenguajes.
 
 ### Tipado dinámico
