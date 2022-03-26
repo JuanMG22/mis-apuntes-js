@@ -32,3 +32,10 @@ En la siguiente tabla se muestra como actua el hoisting en cada caso, y qué es 
 | function			 		                   | completo    	       |
 | import					                   | completo      	       |
 | class					                           | No        		       |
+
+
+### 3. Tipos de datos y estructuras en JavaScript
+Todos los lenguajes de programación tienen estructuras de datos integradas, pero estas a menudo difieren de un lenguaje a otro. Este artículo intenta enumerar las estructuras de datos integradas disponibles en JavaScript y las propiedades que tienen. Estas se pueden utilizar para construir otras estructuras de datos. Siempre que es posible, se hacen comparaciones con otros lenguajes.
+
+### Tipado dinámico
+JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos
