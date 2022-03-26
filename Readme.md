@@ -12,7 +12,7 @@ Una estricta definición de hoisting sugiere que las declaraciones de variables 
 
 
 
-Ej:
+Ejemplo de cómo actua el Hoisting con una función del tipo function:
 
 	function nombreDelGato(nombre) {
      console.log("El nombre de mi gato es " + nombre);
