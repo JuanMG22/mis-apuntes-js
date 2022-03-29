@@ -44,3 +44,18 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 	foo     = 'bar'; // foo ahora es un string
 	foo     = true;  // foo ahora es un booleano
 
+
+### Estructuras y tipos de datos
+El último estándar ECMAScript define nueve tipos:
+
+|                    		                                   | Tipo de dato   	       |
+| ---------------------------------------------------------------- | ------------------------- |
+| Undefined			 		                   | Primitivo                 |
+| Boolean			 		                   | Primitivo    	       |
+| Number					                   | Primitivo      	       |
+| String				                           | Primitivo        	       |
+| Bigint				                           | Primitivo        	       |
+| Symbol				                           | Primitivo        	       |
+| Null				                                   | Primitivo        	       |
+| Object				                           | Objeto        	       |
+| Function				                           | Objeto        	       |
