@@ -39,3 +39,8 @@ Todos los lenguajes de programación tienen estructuras de datos integradas, per
 
 ### Tipado dinámico
 JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos
+
+	let foo = 42;    // foo ahora es un número
+	foo     = 'bar'; // foo ahora es un string
+	foo     = true;  // foo ahora es un booleano
+
