@@ -4,6 +4,16 @@
 ## 1. Closure: 
 Es una función autoejecutada que devuelve determinadas variables o funciones, de forma similar a una class y te permite tener variables privadas
 
+	function iniciar() {
+	  var nombre = "Mozilla";  // La variable nombre es una variable local creada por iniciar.
+	  function mostrarNombre() {  // La función mostrarNombre es una función interna, una clausura.
+	    alert(nombre);  // Usa una variable declarada en la función externa.
+	  }
+	  mostrarNombre();
+	}
+	iniciar();  
+
+
 ## 2. Hoisting: 
 <img src="https://c.tenor.com/BRANURS5Lh8AAAAM/balloon-red.gif" width="100px" >
 
