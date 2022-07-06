@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30px"> Mis Apuntes JavaScript
+# <img src="https://media1.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=6c09b952yzbm90tqswd3axzd1sg2xawydevos6nzr44imwhs&rid=giphy.gif&ct=s" width="30"> Mis Apuntes JavaScript
 
 
 ## 1. Closure: 
